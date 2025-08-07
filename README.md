@@ -1,6 +1,6 @@
 # Codeflix
 
-# 📈 Subscription Churn Analysis (SQL)
+#  Subscription Churn Analysis (SQL)
 
 ## Project Description
 
@@ -8,7 +8,7 @@ This project focuses on analyzing **subscription churn over time** using SQL. Th
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠 Tools & Technologies
 
 - SQL (SQLite)
 - Git/GitHub for version control
@@ -38,7 +38,7 @@ Date range:
 
 ---
 
-## 📊 Monthly Churn Table
+##  Monthly Churn Table
 
 | month      | sum_active_87 | sum_canceled_87 | churn_rate_87 | sum_active_30 | sum_canceled_30 | churn_rate_30 |
 |------------|----------------|------------------|----------------|----------------|------------------|----------------|
@@ -48,7 +48,7 @@ Date range:
 
 ---
 
-## 📌 Actionable Insights
+##  Actionable Insights
 
 1. **Segment 87 is at high risk**  
    - Churn rate increased significantly from **25.18% in Jan** to **48.59% in Mar**.  
