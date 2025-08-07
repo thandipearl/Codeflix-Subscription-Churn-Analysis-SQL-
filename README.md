@@ -8,7 +8,7 @@ This project focuses on analyzing **subscription churn over time** using SQL. Th
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - SQL (SQLite)
 - Git/GitHub for version control
