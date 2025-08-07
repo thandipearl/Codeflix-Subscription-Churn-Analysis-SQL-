@@ -71,7 +71,7 @@ Date range:
 
 - `churn_analysis.sql` – SQL code used for monthly churn calculations  
 - `README.md` – This project documentation  
--
+
 
 ---
 
