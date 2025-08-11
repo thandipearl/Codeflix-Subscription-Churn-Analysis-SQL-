@@ -73,7 +73,6 @@ Date range:
 - `README.md` – This project documentation
 
 ---
-
 Please note: The raw dataset is not available for download as this project was completed within the Codecademy workspace.
----
+
 
